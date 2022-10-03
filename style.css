@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    background-color: rgb(245, 225, 218);
+}
+
+.content {
+    background-color: beige;
+    width:600px;
+    padding: 80px;
+    position:middle;
+    top:70%;
+    left:50%;
+    transform:translate(-30, 30);
+    color:darkslategray
+
+}
